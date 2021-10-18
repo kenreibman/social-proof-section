@@ -209,10 +209,6 @@ h4 {
   font-size: 0.8rem;
 }
 
-.card__feedback {
-  color: var(--light-grayish-magenta);
-}
-
 .profile-img {
   border-radius: 50%;
   overflow: hidden;
